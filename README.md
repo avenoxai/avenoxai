@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/avenox-header-v1.png" width="100%" alt="Avenox — AI operator and builder">
+  <img src="./assets/avenox-header-v2.png" width="100%" alt="Avenox — AI operator and builder">
 </p>
 
 <p align="center">
@@ -84,41 +84,6 @@
 
 <br>
 
-## Selected builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>BUILD / 01</sub>
-      <h3><a href="https://github.com/avenoxai/avenoxbeyin">avenoxbeyin</a></h3>
-      <p>An AI second brain in one command. Obsidian + Claude Code with persistent memory across sessions.</p>
-      <p><code>SHELL</code> · <b>13 ★</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>BUILD / 02</sub>
-      <h3><a href="https://github.com/avenoxai/sessizkes">sessizkeş</a></h3>
-      <p>Finds, previews, and cuts silence in clips. A fully local macOS app built for the actual editing loop.</p>
-      <p><code>TYPESCRIPT</code> · <b>3 ★</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>BUILD / 03</sub>
-      <h3><a href="https://github.com/avenoxai/kapalicarsi">kapalıçarşı</a></h3>
-      <p>A live bargaining game. You run the stall; the customer is an AI with a budget, patience, and attitude.</p>
-      <p><code>JAVASCRIPT</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>BUILD / 04</sub>
-      <h3><a href="https://github.com/avenoxai/candylovable">candylovable</a></h3>
-      <p>Prompt-to-playable match-3 builder. Describe a game and get a live Pixi board.</p>
-      <p><code>TYPESCRIPT</code></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## Model tests
 
 > Same prompt. Different frontier models. One self-contained HTML file each.<br>
@@ -134,7 +99,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/current-signal.svg" width="100%" alt="Current signal: shipping weird software in public">
+  <img src="./assets/current-signal-v2.png" width="100%" alt="Current signal: shipping weird software in public">
 </p>
 
 <p align="center">
