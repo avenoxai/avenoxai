@@ -3,6 +3,16 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/avenoxai">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=avenoxai&amp;bg_color=00000000&amp;color=8b949e&amp;title_color=8b949e&amp;line=f2cc60&amp;point=ffdf5d&amp;area_color=f2cc60&amp;area=true&amp;hide_border=true&amp;grid=false&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%C2%B7%20last%2031%20days"
+      width="100%"
+      alt="Avenox contribution activity over the last 31 days"
+    >
+  </a>
+</p>
+
+<p align="center">
   <a href="https://avenox.lol"><b>avenox.lol</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.youtube.com/@avenoxai"><b>YouTube / @avenoxai</b></a>
