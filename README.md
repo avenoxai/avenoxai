@@ -12,6 +12,42 @@
 
 <br>
 
+## What I am building now
+
+<table>
+  <tr>
+    <td valign="top">
+      <sub>FLAGSHIP / IN ACTIVE DEVELOPMENT</sub>
+      <h2><a href="https://serai.run">Serai</a></h2>
+      <p><strong>The neutral control plane for every AI agent.</strong></p>
+      <p>
+        AI agents are powerful, but the infrastructure around them is still broken:
+        sessions start without the right memory, context stays trapped inside separate tools,
+        risky actions lack consistent gates, and there is rarely a reliable record of what ran or why.
+      </p>
+      <p>
+        Serai sits outside the model and gives Claude Code, Codex, Cursor, Hermes, and other agents
+        a shared layer for scoped memory, compiled context, governed tool routing, human approvals,
+        action receipts, workflows, and version history.
+      </p>
+      <p>
+        It does not replace the agent or run the intelligence. It makes the same agent more reliable,
+        inspectable, and able to carry work across sessions, tools, and teams.
+      </p>
+      <p>
+        <strong>Serai is currently being built in private. It will be open-sourced in the future.</strong>
+      </p>
+      <p>
+        <a href="https://serai.run"><b>serai.run</b></a>
+        &nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="https://app.serai.run"><b>live hub</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <table>
   <tr>
     <td width="68%" valign="middle">
