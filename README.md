@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/avenox-header.svg" width="100%" alt="Avenox — AI operator, builder, and public lab">
+  <img src="./assets/avenox-header-v1.png" width="100%" alt="Avenox — AI operator and builder">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
       </p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="./assets/mascot-the-lemon.png" width="220" alt="The Avenox lemon mascot">
+      <img src="./assets/lemon-mascot-v0.png" width="150" alt="The Avenox lemon mascot">
       <br>
       <sub><b>THE LEMON</b> · quality control</sub>
     </td>
@@ -109,7 +109,7 @@
 
 <br>
 
-## The model lab
+## Model tests
 
 > Same prompt. Different frontier models. One self-contained HTML file each.<br>
 > Nothing quietly fixed after the model finished.
