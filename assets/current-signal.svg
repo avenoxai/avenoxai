@@ -1,0 +1,17 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Current signal</title>
+  <desc id="desc">Shipping weird software in public.</desc>
+  <style>
+    .sans { font-family: Arial, Helvetica, sans-serif; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
+    .signal { animation: signal 3.2s ease-in-out infinite; }
+    @keyframes signal { 0%, 100% { opacity: .28; } 50% { opacity: 1; } }
+  </style>
+  <rect width="1200" height="170" rx="10" fill="#221E17"/>
+  <rect x="1" y="1" width="1198" height="168" rx="9" stroke="#F3EFE4" stroke-opacity=".25" stroke-width="2"/>
+  <circle cx="64" cy="50" r="7" fill="#FFD23E" class="signal"/>
+  <text x="84" y="55" fill="#CDBFA3" class="mono" font-size="13" font-weight="700" letter-spacing="2.4">CURRENT SIGNAL</text>
+  <text x="62" y="112" fill="#F3EFE4" class="sans" font-size="34" font-weight="700" letter-spacing=".2">Shipping weird software in public.</text>
+  <path d="M778 84H1136" stroke="#CDBFA3" stroke-opacity=".35"/>
+  <path d="M778 84H848L864 56L887 118L910 72L929 98L947 84H1136" stroke="#E8B23A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
