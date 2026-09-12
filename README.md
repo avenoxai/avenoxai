@@ -1,107 +1,77 @@
 <p align="center">
-  <img src="./assets/avenox-header-v2.png" width="100%" alt="Avenox — AI operator and builder">
+  <img src="./assets/avenox-studio-header.png" width="100%" alt="Avenox. AI systems, built in the open. The Limon mascot at the drafting table.">
 </p>
 
 <p align="center">
-  <a href="https://github.com/avenoxai">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=avenoxai&amp;bg_color=00000000&amp;color=8b949e&amp;title_color=8b949e&amp;line=f2cc60&amp;point=ffdf5d&amp;area_color=f2cc60&amp;area=true&amp;hide_border=true&amp;grid=false&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%C2%B7%20last%2031%20days"
-      width="100%"
-      alt="Avenox contribution activity over the last 31 days"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://avenox.lol"><b>avenox.lol</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@avenoxai"><b>YouTube / @avenoxai</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/Avenoxai"><b>X / @Avenoxai</b></a>
+  <a href="https://avenox.lol"><b>Website</b></a> &nbsp; / &nbsp;
+  <a href="https://www.youtube.com/@avenoxai"><b>YouTube</b></a> &nbsp; / &nbsp;
+  <a href="https://x.com/Avenoxai"><b>X</b></a> &nbsp; / &nbsp;
+  <a href="mailto:taha@avenox.lol"><b>Get in touch</b></a>
 </p>
 
 <br>
 
-## What I am building now
+I’m **Taha, a.k.a. Avenox**. I build agent systems, test models on real tasks, and share the tools behind my work.
+
+On [YouTube](https://www.youtube.com/@avenoxai), I walk through the process in Turkish. Here, you can explore the code, reuse the skills, and inspect the experiments for yourself.
+
+## Start here
 
 <table>
   <tr>
-    <td valign="top">
-      <sub>FLAGSHIP / IN ACTIVE DEVELOPMENT</sub>
-      <h2><a href="https://serai.run">Serai</a></h2>
-      <p><strong>The neutral control plane for every AI agent.</strong></p>
-      <p>
-        AI agents are powerful, but the infrastructure around them is still broken:
-        sessions start without the right memory, context stays trapped inside separate tools,
-        risky actions lack consistent gates, and there is rarely a reliable record of what ran or why.
-      </p>
-      <p>
-        Serai sits outside the model and gives Claude Code, Codex, Cursor, Hermes, and other agents
-        a shared layer for scoped memory, compiled context, governed tool routing, human approvals,
-        action receipts, workflows, and version history.
-      </p>
-      <p>
-        It does not replace the agent or run the intelligence. It makes the same agent more reliable,
-        inspectable, and able to carry work across sessions, tools, and teams.
-      </p>
-      <p>
-        <strong>Serai is currently being built in private. It will be open-sourced in the future.</strong>
-      </p>
-      <p>
-        <a href="https://serai.run"><b>serai.run</b></a>
-        &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://app.serai.run"><b>live hub</b></a>
-      </p>
+    <td width="50%" valign="top">
+      <sub>01 / MEMORY</sub>
+      <h3><a href="https://github.com/avenoxai/avenoxbeyin">Avenox Beyin</a></h3>
+      <p>An open-source second brain built around Obsidian and Claude Code. Keep useful context across sessions.</p>
+      <p><a href="https://github.com/avenoxai/avenoxbeyin"><b>Build your second brain →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / WORKFLOWS</sub>
+      <h3><a href="https://github.com/avenoxai/avenoxskills">Avenox Skills</a></h3>
+      <p>Reusable agent skills from my day-to-day work: coding fleets, reviews, research, and video production.</p>
+      <p><a href="https://github.com/avenoxai/avenoxskills"><b>Explore the skills →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / EXPERIMENTS</sub>
+      <h3><a href="https://github.com/avenoxai/limon-arena">Limon Arena</a></h3>
+      <p>Raw frontier-model experiments from the videos. Original prompts and outputs, ready to inspect.</p>
+      <p><a href="https://github.com/avenoxai/limon-arena"><b>See what the models made →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / WATCH THE PROCESS</sub>
+      <h3><a href="https://www.youtube.com/@avenoxai">Avenox on YouTube</a></h3>
+      <p>Hands-on builds, model comparisons, and the practical work of turning AI tools into useful systems.</p>
+      <p><a href="https://www.youtube.com/@avenoxai"><b>Watch the builds →</b></a></p>
     </td>
   </tr>
 </table>
 
-<br>
+## On the workbench: Serai
 
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-      <h2>Building what watches.</h2>
-      <p>
-        I build AI systems, agent infrastructure, and strange little products in public.
-        The polished explanations live on YouTube. The raw prompts, model outputs, failures,
-        and working code live here.
-      </p>
-      <p>
-        <code>AI SYSTEMS</code>&nbsp;
-        <code>AGENT INFRA</code>&nbsp;
-        <code>MODEL TESTS</code>&nbsp;
-        <code>OPEN BUILDS</code>
-      </p>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/lemon-mascot-v0.png" width="150" alt="The Avenox lemon mascot">
-      <br>
-      <sub><b>THE LEMON</b> · quality control</sub>
-    </td>
-  </tr>
-</table>
+**A shared control plane for AI agents.**
+
+I’m building Serai to connect memory, context, tools, approvals, and execution records across agent workflows. The aim is continuity: useful work should carry across sessions, tools, and teams.
+
+**In active development.** The codebase is currently private.
+
+[Explore Serai](https://serai.run) · [Open the hub](https://app.serai.run)
+
+## A few experiments to open
+
+| Experiment | What to look for |
+| :--- | :--- |
+| [AI Ne Kadar İlerledi?](https://github.com/avenoxai/AI-Ne-Kadar-Ilerledi) | Models from different generations tackling the same visualization tasks. |
+| [Sonnet 5 vs Opus 4.8](https://github.com/avenoxai/sonnet5-vs-opus) | Identical prompts, with both models’ original outputs. |
+| [GPT-5.6 SOL Benchmark](https://github.com/avenoxai/GPT-5.6-SOL-Benchmark) | Single-file demos and the prompts that produced them. |
+| [Galaxy simulation](https://github.com/avenoxai/galaxy-simulation) | A browser-based Milky Way experiment. |
 
 <br>
 
-## Model tests
-
-> Same prompt. Different frontier models. One self-contained HTML file each.<br>
-> Nothing quietly fixed after the model finished.
-
-| Test archive | What is inside |
-| --- | --- |
-| **[🍋 limon-arena](https://github.com/avenoxai/limon-arena)** | The growing archive of raw frontier-model tests from the videos |
-| **[AI Ne Kadar İlerledi?](https://github.com/avenoxai/AI-Ne-Kadar-Ilerledi)** | 2023 → 2026 across four one-shot visualization tasks |
-| **[Sonnet 5 vs Opus 4.8](https://github.com/avenoxai/sonnet5-vs-opus)** | Five identical prompts and both models' untouched output |
-| **[GPT-5.6 SOL Benchmark](https://github.com/avenoxai/GPT-5.6-SOL-Benchmark)** | Four single-file demos with their original prompts |
-
-<br>
+---
 
 <p align="center">
-  <img src="./assets/current-signal-v2.png" width="100%" alt="Current signal: shipping weird software in public">
-</p>
-
-<p align="center">
-  <sub>Everything from the videos lives here — raw, inspectable, exactly as it ran.</sub>
+  <b>Build. Test. Inspect. Share.</b><br>
+  <sub>For collaborations and sponsorships: <a href="mailto:taha@avenox.lol">taha@avenox.lol</a></sub>
 </p>
